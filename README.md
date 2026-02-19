@@ -3,7 +3,7 @@
 > **Developed with AI Assistance** 🤖✨
 > This tool was co-created by a human researcher and an AI Agent to solve the challenge of seamless Stata integration in VS Code.
 
-This tool enables a **Persistent Stata Session** directly inside VS Code, allowing you to run Stata code interactively without switching windows or blocking your editor.
+This tool enables a **Persistent Stata Session** directly inside VS Code (or similar ones like Antigravity), allowing you to run Stata code interactively without switching windows or blocking your editor.
 
 ## What It Does
 *   **Runs Stata in the Background**: Uses a Python script to launch Stata via COM Automation.
